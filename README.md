@@ -15,7 +15,7 @@ This project presents a comprehensive empirical study investigating the differen
 
 ---
 
-## Repository Contents
+## Repository Contents  
 
 | File | Description |
 |------|-------------|
