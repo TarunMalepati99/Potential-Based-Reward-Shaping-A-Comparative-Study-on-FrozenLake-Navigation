@@ -9,7 +9,7 @@
 
 ---
 
-## Overview
+## Overview  
 
 This project presents a comprehensive empirical study investigating the differential impact of **Potential-Based Reward Shaping (PBRS)** across five canonical reinforcement learning algorithms on the FrozenLake gridworld environment. Our results challenge conventional assumptions — sparse rewards outperformed PBRS-shaped rewards in **75% of algorithm-condition combinations**.
 
